@@ -1,3 +1,79 @@
-SpongeBob tries to get a job at the Krusty Krab
-Patrick forgets where he lives
-Squidward practices his clarinet
+1. "Help Wanted": SpongeBob applies for a job at the Krusty Krab, but must prove himself by obtaining a spatula.
+2. "Reef Blower": Without speaking, SpongeBob attempts to remove a shell from his lawn, leading to chaos.
+3. "Tea at the Treedome": SpongeBob meets Sandy Cheeks and struggles to survive in her air-filled treedome.
+4. "Bubblestand": SpongeBob introduces Bikini Bottom to the art of bubble blowing.
+5. "Ripped Pants": SpongeBob rips his pants and enjoys the attention until the joke goes too far.
+6. "Jellyfishing": SpongeBob and Patrick take an injured Squidward jellyfishing, which ends in disaster.
+7. "Plankton!": Plankton switches places with SpongeBob's brain to steal the Krabby Patty secret formula.
+8. "Naughty Nautical Neighbors": SpongeBob and Patrick's friendship is tested by Squidward's mischief.
+9. "Boating School": SpongeBob tries, and fails, to pass his driving test with the help of Patrick.
+10. "Pizza Delivery": SpongeBob and Squidward embark on a journey to deliver a Krusty Krab pizza.
+11. "Home Sweet Pineapple": SpongeBob's house is destroyed by nematodes, leading him to temporarily live with Patrick.
+12. "Mermaid Man and Barnacle Boy": SpongeBob and Patrick try to convince the retired heroes to return to crime-fighting.
+13. "Pickles": SpongeBob loses his confidence after forgetting to put pickles on a burger.
+14. "Hall Monitor": SpongeBob's duty as hall monitor leads to town-wide panic.
+15. "Jellyfish Jam": SpongeBob brings a jellyfish home, which soon invites chaos by inviting its friends.
+16. "Sandy's Rocket": SpongeBob and Patrick mistakenly think they've landed on the moon after sneaking onto Sandy's rocket.
+17. "Nature Pants": SpongeBob decides to live among the jellyfish, leaving his life in Bikini Bottom behind.
+18. "Opposite Day": SpongeBob and Patrick confuse a real estate agent with their antics on Opposite Day.
+19. "Culture Shock": The Krusty Krab hosts a talent show, and Squidward wants to be the star.
+20. "F.U.N.": SpongeBob befriends Plankton, believing everyone has a good side.
+21. "MuscleBob BuffPants": SpongeBob buys fake muscles to impress Sandy and other beachgoers.
+22. "Squidward the Unfriendly Ghost": SpongeBob and Patrick believe they've turned Squidward into a ghost.
+23. "The Chaperone": SpongeBob steps in as Pearl's prom date, leading to a memorable night.
+24. "Employee of the Month": SpongeBob and Squidward compete fiercely to win the Employee of the Month award.
+25. "Scaredy Pants": SpongeBob seeks to craft the scariest Halloween costume to change his reputation.
+26. "I Was a Teenage Gary": SpongeBob turns into a snail after being accidentally injected with snail plasma.
+27. "SB-129": Squidward gets trapped in the Krusty Krab freezer and travels through time.
+28. "Karate Choppers": SpongeBob and Sandy's karate antics cause trouble at the Krusty Krab.
+29. "Sleepy Time": SpongeBob enters the dreams of his friends, leading to various dreamworld misadventures.
+30. "Suds": SpongeBob catches the suds, and Patrick's attempt at treatment causes more harm than good.
+31. "Valentine's Day": SpongeBob's valentine gift for Patrick causes confusion and disappointment at the carnival.
+32. "The Paper": Squidward's discarded gum wrapper brings immense joy to SpongeBob, leading to jealousy.
+33. "Arrgh!": SpongeBob, Patrick, and Mr. Krabs search for a lost treasure using a board game's map.
+34. "Rock Bottom": SpongeBob gets stranded in the eerie town of Rock Bottom and struggles to find a way home.
+35. "Texas": Sandy feels homesick, so SpongeBob and Patrick try to bring a bit of Texas to Bikini Bottom.
+36. "Walking Small": Plankton manipulates SpongeBob into driving away beachgoers to make way for his new mega Chum Bucket.
+37. "Fools in April": Squidward's prank on SpongeBob for April Fools' Day goes too far.
+38. "Neptune's Spatula": SpongeBob pulls a mythical spatula from ancient grease, making him a candidate to be King Neptune's fry cook.
+39. "Hooky": SpongeBob and Patrick play with fish hooks, despite Mr. Krabs' warnings.
+40. "Mermaid Man and Barnacle Boy II": SpongeBob wins a contest, allowing him to spend the day with his superhero idols.
+1. "Your Shoe's Untied": SpongeBob forgets how to tie his shoes and seeks help.
+2. "Squid's Day Off": Squidward takes a day off but becomes increasingly paranoid about what might be happening at the Krusty Krab in his absence.
+3. "Something Smells": After eating a sundae, SpongeBob develops bad breath, unaware of why people avoid him.
+4. "Bossy Boots": Pearl comes to work at the Krusty Krab and suggests drastic changes, turning it into the Kuddly Krab.
+5. "Big Pink Loser": Patrick wants an award, so he imitates SpongeBob, leading to a series of mishaps.
+6. "Bubble Buddy": SpongeBob creates a bubble friend when he feels alone, but the town grows frustrated with its inanimate antics.
+7. "Dying for Pie": SpongeBob is given a pie that's really a bomb, and Squidward spends the day with him awaiting its detonation.
+8. "Imitation Krabs": Plankton impersonates Mr. Krabs in an attempt to steal the Krabby Patty secret formula.
+9. "Wormy": SpongeBob and Patrick babysit Sandy’s pet caterpillar, which turns into a butterfly causing panic in Bikini Bottom.
+10. "Patty Hype": SpongeBob creates "Pretty Patties", colorful burgers that become an overnight sensation.
+11. "Grandma's Kisses": SpongeBob is embarrassed when his grandmother kisses him in front of his friends at the Krusty Krab.
+12. "Squidville": Squidward moves to Tentacle Acres, a town filled with his own kind, only to become bored with the monotony.
+13. "Prehibernation Week": Sandy undergoes extreme activities before her hibernation and drags SpongeBob along for the ride.
+14. "Life of Crime": SpongeBob and Patrick believe they've stolen a balloon and decide to live life as criminals on the lam.
+15. "Christmas Who?": SpongeBob introduces Christmas to Bikini Bottom, leading to various results when Santa Claus doesn't show up.
+16. "Survival of the Idiots": SpongeBob and Patrick intrude on Sandy's hibernation and face a sleepwalking, hibernating squirrel.
+17. "Dumped": SpongeBob believes Gary prefers Patrick, prompting SpongeBob to seek a new pet.
+18. "No Free Rides": Mrs. Puff passes SpongeBob just to get him out of her boating school, leading to unexpected results.
+19. "I'm Your Biggest Fanatic": SpongeBob seeks to join the Jellyspotters, a club of jellyfish enthusiasts.
+20. "Mermaid Man and Barnacle Boy III": While Mermaid Man and Barnacle Boy are away, SpongeBob and Patrick unintentionally release their arch-nemesis, Man Ray.
+21. "Squirrel Jokes": SpongeBob becomes a popular comedian with jokes that mock Sandy and her squirrel characteristics.
+22. "Pressure": SpongeBob, Patrick, Squidward, and Mr. Krabs compete against Sandy in a series of challenges to prove who's better, land creatures or sea creatures.
+23. "The Smoking Peanut": SpongeBob's actions at the zoo lead to chaos when a clam goes on a rampage.
+24. "Shanghaied": SpongeBob, Patrick, and Squidward end up on the Flying Dutchman's ship and are forced into service.
+25. "Gary Takes a Bath": SpongeBob faces challenges trying to get Gary to take a bath.
+26. "Welcome to the Chum Bucket": Plankton gets SpongeBob to work at the Chum Bucket through a contract scheme, but SpongeBob struggles without his heart being at the Krusty Krab.
+27. "Frankendoodle": SpongeBob encounters trouble when his drawing comes to life.
+28. "The Secret Box": SpongeBob becomes obsessed with finding out what Patrick keeps in a secret box.
+29. "Band Geeks": Squidward forms a band to play at the Bubble Bowl and compete with his rival, Squilliam.
+30. "Graveyard Shift": While working a night shift, Squidward scares SpongeBob with tales of the "Hash Slinging Slasher."
+31. "Krusty Love": Mr. Krabs falls in love with Mrs. Puff and spends extravagantly to woo her.
+32. "Procrastination": SpongeBob procrastinates on his essay assignment for boating school.
+33. "I'm with Stupid": Patrick tries to appear smart when his parents visit, leading to comedic misunderstandings.
+34. "Sailor Mouth": SpongeBob and Patrick discover a bad word and face the consequences of using it.
+35. "Artist Unknown": Squidward becomes jealous when his art student, SpongeBob, shows natural talent.
+36. "Jellyfish Hunter": SpongeBob's jellyfishing skills are exploited by Mr. Krabs, leading to a moral dilemma.
+37. "The Fry Cook Games": SpongeBob and Patrick compete against each other in the Fry Cook Games.
+38. "Squid on Strike": Frustrated with Mr. Krabs' policies, Squidward convinces SpongeBob to join him on strike.
+39. "Sandy, SpongeBob, and the Worm": A giant worm threatens Bikini Bottom, prompting Sandy and SpongeBob to take action.
