@@ -1,4 +1,9 @@
 <?php
+
+if (getenv('OPENAI_API_KEY')===false || getenv('OPENAI_CHATGPT_MODEL')===false) {
+    exit('Missing required environment configuration.');
+}
+
 // Configuration for OpenAI API
 define('OPENAI_API_ENDPOINT', 'https://api.openai.com/v1/chat/completions');
 define('OPENAI_API_KEY', getenv('OPENAI_API_KEY'));
