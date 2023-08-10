@@ -1,0 +1,516 @@
+acceptere	accepterer	accepterede	har accepteret	havde accepteret	accepter	b1
+adskille	adskiller	adskilte	har adskilt	havde adskilt	adskil	b2
+advare	advarer	advarede	har advaret	havde advaret	advar	b1
+afbryde	afbryder	afbrød	har afbrudt	havde afbrudt	afbryd	uv
+afgive	afgiver	afgav	har afgivet	havde afgivet	afgiv	uv
+afgøre	afgør	afgjorde	har afgjort	havde afgjort	afgør	uv
+aflevere	afleverer	afleverede	har afleveret	havde afleveret	aflever	b1
+aflyse	aflyser	aflyste	har aflyst	havde aflyst	aflys	b2
+afløse	afløser	afløste	har afløst	havde afløst	afløs	b2
+afskaffe	afskaffer	afskaffede	har afskaffet	havde afskaffet	afskaf	b1
+afslutte	afslutter	afsluttede	har afsluttet	havde afsluttet	afslut	b1
+afsløre	afslører	afslørede	har afsløret	havde afsløret	afslør	b1
+afvise	afviser	afviste	har afvist	havde afvist	afvis	b2
+anbefale	anbefaler	anbefalede	har anbefalet	havde anbefalet	anbefal	b1
+anbringe	anbringer	anbragte	har anbragt	havde anbragt	anbring	uv
+ane	aner	anede	har anet	havde anet		b1
+anerkende	anerkender	anerkendte	har anerkendt	havde anerkendt	anerkend	b2
+angive	angiver	angav	har angivet	havde angivet	angiv	uv
+angå	angår	angik	har angået	havde angået		uv
+anholde	anholder	anholdt	har anholdt	havde anholdt	anhold	uv
+ankomme	ankommer	ankom	er ankommet	var ankommet		uv
+anmelde	anmelder	anmeldte	har anmeldt	havde anmeldt	anmeld	b2
+anse	anser	anså	har anset	havde anset		uv
+ansætte	ansætter	ansatte	har ansat	havde ansat	ansæt	uv
+anvende	anvender	anvendte	har anvendt	havde anvendt	anvend	b2
+arbejde	arbejder	arbejdede	har arbejdet	havde arbejdet	arbejd	b1
+arrangere	arrangerer	arrangerede	har arrangeret	havde arrangeret	arranger	b1
+arrestere	arresterer	arresterede	har arresteret	havde arresteret	arrester	b1
+bage	bager	bagte	har bagt	havde bagt	bag	b2
+banke	banker	bankede	har banket	havde banket	bank	b1
+bede	beder	bad	har bedt	havde bedt	bed	uv
+befinde	befinder	befandt	har befundet	havde befundet		uv
+begrave	begraver	begravede	har begravet	havde begravet	begrav	b1
+begrænse	begrænser	begrænsede	har begrænset	havde begrænset	begræns	b1
+begynde	begynder	begyndte	er begyndt	var begyndt	begynd	b2
+begå	begår	begik	har begået	havde begået	begå	uv
+behandle	behandler	behandlede	har behandlet	havde behandlet	behandl	b1
+beholde	beholder	beholdt	har beholdt	havde beholdt	behold	uv
+behøve	behøver	behøvede	har behøvet	havde behøvet		b1
+beklage	beklager	beklagede	har beklaget	havde beklaget	beklag	b1
+bekræfte	bekræfter	bekræftede	har bekræfted	havde bekræftet	bekræft	b1
+bemærke	bemærker	bemærkede	har bemærket	havde bemærket	bemærk	b1
+benytte	benytter	benyttede	har benyttet	havde benyttet	benyt	b1
+beskrive	beskriver	beskrev	har beskrevet	havde beskrevet	beskriv	uv
+beskytte	beskytter	beskyttede	har beskyttet	havde beskyttet	beskyt	b1
+beslutte	beslutter	besluttede	har besluttet	havde besluttet	beslut	b1
+bestemme	bestemmer	bestemte	har bestemt	havde bestemt	bestem	b2
+bestille	bestiller	bestilte	har bestilt	havde bestilt	bestil	b2
+bestå	består	bestod	har bestået	havde bestået	bestå	uv
+besætte	besætter	besatte	har besat	havde besat	besæt	uv
+besøge	besøger	besøgte	har besøgt	havde besøgt	besøg	b2
+betale	betaler	betalte	har betalt	havde betalt	betal	b2
+betyde	betyder	betød	har betydet	havde betydet	betyd	uv
+bevare	bevarer	bevarede	har bevaret	havde bevaret	bevar	b1
+bevise	beviser	beviste	har bevist	havde bevist	bevis	b2
+bevæge sig	bevæger sig	bevægede sig	har bevægetsig	havde bevægetsig	bevæg dig	b1
+bide	bider	bed	har bidt	havde bidt	bid	uv
+bidrage	bidrager	bidrog	har bidraget	havde bidraget	bidrag	uv
+binde	binder	bandt	har bundet	havde bundet	bind	uv
+blande	blander	blandede	har blandet	havde blandet	bland	b1
+blive	bliver	blev	er blevet	var blevet	bliv	uv
+blæse	blæser	blæste	har blæst	havde blæst	blæs	b2
+bo	bor	boede	har boet	havde boet	bo	b1
+brede sig	breder sig	bredte sig	har bredt sig	havde bredt sig	bred dig	b2
+bringe	bringer	bragte	har bragt	havde bragt	bring	uv
+bruge	bruger	brugte	har brugt	havde brugt	brug	b2
+bryde	bryder	brød	har brudt	havde brudt	bryd	uv
+bygge	bygger	byggede	har bygget	havde bygget	byg	b1
+bytte	bytter	byttede	har byttet	havde byttet	byt	b1
+bære	bærer	bar	har båret	havde båret	bær	uv
+citere	citerer	citerede	har citeret	havde citeret	citer	b1
+danne	danner	dannede	har dannet	havde dannet	dan	b1
+danse	danser	dansede	har danset	havde danset	dans	b1
+dele	deler	delte	har delt	havde delt	del	b2
+deltage	deltager	deltog	har deltaget	havde deltaget	deltag	uv
+diskutere	diskuterer	diskuterede	har diskuteret	havde diskuteret	diskuter	b1
+dominere	dominerer	dominerede	har domineret	havde domineret	dominer	b1
+drage	drager	drog	har draget	havde draget	drag	uv
+dreje	drejer	drejede	har drejet	havde drejet	dreje	b1
+drikke	drikker	drak	har drukket	havde drukket	drik	uv
+drive	driver	drev	har drevet	havde drevet	driv	uv
+dræbe	dræber	dræbte	har dræbt	havde dræbt	dræb	b2
+drøfte	drøfter	drøftede	har drøftet	havde drøftet	drøft	b1
+drømme	drømmer	drømte	har drømt	havde drømt	drøm	b2
+dukke op	dukker op	dukkede op	er dukket op	var dukket op	duk op	b1
+dække	dækker	dækkede	har dækket	havde dækket	dæk	b1
+dø	dør	døde	er død	var død	dø	uv
+dømme	dømmer	dømte	har dømt	havde dømt	døm	b2
+efterlade	efterlader	efterlod	har efterladt	havde efterladt	efterlad	uv
+eje	ejer	ejede	har ejet	havde ejet		b1
+eksistere	eksisterer	eksisterede	har eksisteret	havde eksisteret		b1
+elske	elsker	elskede	har elsket	havde elsket	elsk	b1
+ende	ender	endte	er endt	var endt		b2
+erkende	erkender	erkendte	har erkendt	havde erkendt	erkend	b2
+erstatte	erstatter	erstattede	har erstattet	havde erstatte	erstat	b1
+falde	falder	faldt	er faldet	var faldet	fald	uv
+fange	fanger	fangede	har fanget	havde fanget	fang	b1
+fastholde	fastholder	fastholdt	har fastholdt	havde fastholdt	fasthold	uv
+fastslå	fastslår	fastslog	har fastslået	havde fastslået	slå fast	uv
+fastsætte	fastsætter	fastsatte	har fastsat	havde fastsat	fastsæt	uv
+fatte	fatter	fattede	har fattet	havde fattet	fat	b1
+fejre	fejrer	fejrede	har fejret	havde fejret	fejr	b1
+finde	finder	fandt	har fundet	havde fundet	find	uv
+fjerne	fjerner	fjernede	har fjernet	havde fjernet	fjern	b1
+flygte	flygter	flygtede	er flygtet	var flygtet	flygt	b1
+flytte	flytter	flyttede	er flyttet	var flyttet	flyt	b1
+flyve	flyver	fløj	har / er fløjet	havde / var fløjet	flyv	uv
+fodre	fodrer	fodrede	har fodret	havde fodret	fodr	b1
+forbedre	forbedrer	forbedrede	har forbedret	havde forbedret	forbedr	b1
+forberede	forbereder	forberedte	har forberedt	havde forberedt	forbered	b2
+forbinde	forbinder	forbandt	har forbundet	havde forfundet	forbind	uv
+forblive	forbliver	forblev	er forblevet	var forblevet	forbliv	uv
+fordele	fordeler	fordelte	har fordelt	havde fordelt	fordel	b2
+foregå	foregår	foregik	er foregået	var foregået	foregå	uv
+forekomme	forekommer	forekom	er forekommet	var forekommet	forekom	uv
+forelske sig	forelsker sig	forelskede sig	har forelsket sig	havde forelsket sig	forelsk dig	b1
+forene	forener	forenede	har forenet	havde forenet	foren	b1
+foreslå	foreslår	foreslog	har foreslået	havde foreslået	foreslå	uv
+forestille sig	forestiller sig	forestillede sig	har forestillet sig	havde forestillet sig	forestil dig	b1
+foretage sig	foretager sig	foretog sig	har foretaget sig	havde foretaget sig	foretag dig	uv
+foretrække	foretrækker	foretrak	har foretrukket	havde foretrukket		uv
+forhandle	forhandler	forhandlede	har forhandlet	havde forhandlet	forhandl	b1
+forhindre	forhindrer	forhindrede	har forhindret	havde forhindret	forhindr	b1
+forholde sig	forholder sig	forholdt sig	har forholdt sig	havde forholdt sig	forhold dig	uv
+forklare	forklarer	forklarede	har forklaret	havde forklaret	forklar	b1
+forlade	forlader	forlod	har forladt	havde forladt	forlad	uv
+forlange	forlanger	forlangte	har forlangt	havde forlangt	forlang	b2
+formulere	formulerer	formulerede	har formuleret	havde formuleret	formuler	b1
+formå	formår	formåede	har fomået	havde formået	formå	b1
+forsinke	forsinker	forsinkede	har forsinket	havde forsinket	forsink	b1
+forstå	forstår	forstod	har forstået	havde forstået	forstå	uv
+forsvare	forsvarer	forsvarede	har forsvaret	havde forsvaret	forsvar	b1
+forsvinde	forsvinder	forsvandt	er forsvundet	var forsvundet	forsvind	uv
+forsøge	forsøger	forsøgte	har forsøgt	havde forsøgt	forsøg	b2
+fortjene	fortjener	fortjente	har fortjent	havde fortjent	fortjen	b2
+fortsætte	fortsætter	fortsatte	har / er fortsat	havde / var fortsat	fortsæt	uv
+fortælle	fortæller	fortalte	har fortalt	havde fortalt	fortæl	uv
+forudsætte	forudsætter	forudsatte	har / erforudsat	havde / var forudsat	forudsæt	uv
+forvandle	forvandler	forvandlede	har forvandlet	havde forvandlet	forvandl	b1
+forvente	forventer	forventede	har forventet	havde forventet	forvent	b1
+fremgå	fremgår	fremgik	er fremgået	var fremgået	fremgå	uv
+fremhæve	fremhæver	fremhævede	har fremhævet	havde fremhævet	fremhæv	b1
+fremlægge	fremlægger	fremlagde	har fremlagt	havde fremlagt	fremlæg	uv
+fremstille	fremstiller	fremstillede	har fremstillet	havde fremstillet	fremstil	b1
+fremsætte	fremsætter	fremsatte	har fremsat	havde fremsat	fremsæt	uv
+friste	frister	fristede	har fristet	havde fristet	frist	b1
+frygte	frygter	frygtede	har frygtet	havde frygtet	frygt	b1
+fungere	fungerer	fungerede	har fungeret	havde fungeret	funger	b1
+fylde	fylder	fyldte	har fyldt	havde fyldt	fyld	b2
+fyre	fyrer	fyrede	har fyret	havde fyret	fyr	b1
+føde	føder	fødte	har født	havde født	fød	b2
+føle	føler	følte	har følt	havde følt	føl	b2
+følge	følger	fulgte	har fulgt	havde fulgt	følg	uv
+føre	fører	førte	har ført	havde ført	før	b2
+få	får	fik	har fået	havde fået	få	uv
+gemme	gemmer	gemte	har gemt	havde gemt	gem	b2
+genere	generer	generede	har generet	havde generet	gener	b1
+gennemføre	gennemfører	gennemførte	har gennemført	havde gennemført	gennemfør	b2
+gennemgå	gennemgår	gennemgik	har gennemgået	havde gennemgået	gennemgå	uv
+gentage	gentager	gentog	har gentaget	havde gentaget	gentag	uv
+gide	gider	gad	har gidet	havde gidet	gid	uv
+gifte sig	gifter sig	giftede sig	har giftet sig	havde giftet sig	gift dig	b1
+give	giver	gav	har givet	havde givet	giv	uv
+glemme	glemmer	glemte	har glemt	havde glemt	glem	b2
+glide	glider	gled	er gledet	var gledet	glid	uv
+glæde sig	glæder sig	glædede sig	har glædet sig	havde glædet sig	glæd dig	b1
+godkende	godkender	godkendte	har godkendt	havde godkendt	godkend	b2
+gribe	griber	greb	har grebet	havde grebet	grib	uv
+grine	griner	grinede	har grinet	havde grinet	grin	b1
+græde	græder	græd	har grædt	havde grædt	græd	uv
+gøre	gør	gjorde	har gjort	havde gjort	gør	uv
+gå	går	gik	har / ergået	havde / var gået	gå	uv
+hade	hader	hadede	har hadet	havde hadet	had	b1
+handle	handler	handlede	har handlet	havde handlet	handl	b1
+have	har	havde	har haft	havde haft	hav	uv
+hedde	hedder	hed	har heddet	havde heddet		uv
+hente	henter	hentede	har hentet	havde hentet	hent	b1
+henvende sig	henvender sig	henvendte sig	har henvendt sig	havde henvendt sig	henvend dig	b2
+henvise	henviser	henviste	har henvist	havde henvist	henvis	b2
+herske	hersker	herskede	har hersket	havde hersket	hersk	b1
+hilse	hilser	hilste	har hilst	havde hilst	hils	b2
+hindre	hindrer	hindrede	har hindret	havde hindret	hindr	b1
+hjælpe	hjælper	hjalp	har hjulpet	havde hjulpet	hjælp	uv
+holde	holder	holdt	har holdt	havde holdt	hold	uv
+hoppe	hopper	hoppede	har / er hoppet	havde / var hoppet	hop	b1
+huske	husker	huskede	har husket	havde husket	husk	b1
+hvile sig	hviler sig	hvilede sig	har hvilet sig	havde hvilet sig	hvil dig	b1
+hviske	hvisker	hviskede	har hvisket	havde hvisket	hvisk	b1
+hælde	hælder	hældte	har hældt	havde hældt	hæld	b2
+hænge, (tr).	hænger	hængte	har hængt	havde hængt	hæng	b2
+hænge (intr).	hænger	hang	har hængt	havde hængt	hæng	uv
+hævde	hævder	hævdede	har hævdet	havde hævdet	hævd	b1
+hæve	hæver	hævede	har hævet	havde hævet	hæv	b1
+høre	hører	hørte	har hørt	havde hørt	hør	b2
+håbe	håber	håbede	har håbet	havde håbet	håb	b1
+inddrage	inddrager	inddrog	har inddraget	havde inddraget	inddrag	uv
+indebære	indebærer	indebar	har indebåret	havde indebåret		uv
+indeholde	indeholder	indeholdt	har indeholdt	havde indeholdt		uv
+indføre	indfører	indførte	har indført	havde indført	indfør	b2
+indgå	indgår	indgik	har indgået	havde indgået	indgå	uv
+indlede	indleder	indledte	har indledt	havde indledt	indled	b2
+indrette	indretter	indrettede	har indrettet	havde indrettet	indret	b1
+indrømme	indrømmer	indrømmede	har indrømmet	havde indrømmet	indrøm	b1
+indstille	indstiller	indstillede	har indstillet	havde indstillet	indstil	b1
+indtage	indtager	indtog	har indtaget	havde indtaget	indtag	uv
+installere	installerer	installerede	har installeret	havde installeret	installer	b1
+inspirere	inspirerer	inspirerede	har inspireret	havde inspireret	inspirer	b1
+interessere	interesserer	interesserede	har interesseret	havde interesseret	interesser	b1
+investere	investerer	investerede	har investeret	havde investeret	invester	b1
+invitere	inviterer	inviterede	har inviteret	havde inviteret	inviter	b1
+irritere	irriterer	irriterede	har irriteret	havde irriteret	irriter	b1
+kalde	kalder	kaldte	har kaldt	havde kaldt	kald	b2
+kaste	kaster	kastede	har kastet	havde kastet	kast	b1
+kende	kender	kendte	har kendt	havde kendt	kend	b2
+kigge	kigger	kiggede	har kigget	havde kigget	kig	b1
+klare	klarer	klarede	har klaret	havde klaret	klar	b1
+klippe	klipper	klippede	har klippet	havde klippet	klip	b1
+klæde	klæder	klædte	har klædt	havde klædt	klæd	b2
+knuse	knuser	knuste	har knust	havde knust	knus	b2
+knytte	knytter	knyttede	har knyttet	havde knyttet	knyt	b1
+koge	koger	kogte	har kogt	havde kogt	kog	b2
+kombinere	kombinerer	kombinerede	har kombineret	havde kombineret	kombiner	b1
+komme	kommer	kom	er kommet	var kommet	kom	uv
+kommentere	kommenterer	kommenterede	har kommenteret	havde kommenteret	kommenter	b1
+koncentrere sig	koncentrerer sig	koncentrede sig	har koncentreret sig	havde koncentreret sig	koncentrer dig	b1
+konstatere	konstaterer	konstaterede	har konstateret	havde konstateret	konstater	b1
+kontakte	kontakter	kontaktede	har kontaktet	havde kontaktet	kontakt	b1
+kontrollere	kontrollerer	kontrollerede	har kontrolleret	havde kontrolleret	kontroller	b1
+koste	koster	kostede	har kostet	havde kostet		b1
+kritisere	kritiserer	kritiserede	har kritiseret	havde kritiseret	kritiser	b1
+kræve	kræver	krævede	har krævet	havde krævet	kræv	b1
+kunne	kan	kunne	har kunnet	havde kunnet		uv
+kunne lide	kan lide	kunne lide	har kunnet lide	havde kunnet lide		uv
+kysse	kysser	kyssede	har kysset	havde kysset	kys	b1
+kæmpe	kæmper	kæmpede	har kæmpet	havde kæmpet	kæmp	b1
+købe	køber	købte	har købt	havde købt	køb	b2
+køre	kører	kørte	har / er kørt	havde / var kørt	kør	b2
+lade	lader	lod	har ladet	havde ladet	lad	uv
+lade som om	lader som om	lod som om	har ladet som om	havde ladet som om	lad som om	uv
+lande	lander	landede	er landet	var landet	land	b1
+lave	laver	lavede	har lavet	havde lavet	lav	b1
+le	ler	lo	har leet	havde leet	le	uv
+lede	leder	ledte	har ledt	havde ledt	led	b2
+lege	leger	legede	har leget	havde leget	leg	b1
+leje	lejer	lejede	har lejet	havde lejet	lej	b1
+lette	letter	lettede	har / er lettet	havde / er lettet	let	b1
+leve	lever	levede	har levet	havde levet	lev	b1
+levere	leverer	leverede	har leveret	havde leveret	lever	b1
+lide	lider	led	har lidt	havde lidt	lid	uv
+ligge (intr.)	ligger	lå	har ligget	havde ligget	lig	uv
+ligne	ligner	lignede	har lignet	havde lignet	lign	b1
+lokke	lokker	lokkede	har lokket	havde lokket	lok	b1
+love	lover	lovede	har lovet	havde lovet	lov	b1
+lukke	lukker	lukkede	har lukket	havde lukket	luk	b1
+lyde	lyder	lød	har lydt	havde lydt	lyd	uv
+lykkes	lykkes	lykkedes	er lykkedes	var lykkedes		uv
+lyse	lyser	lyste	har lyst	havde lyst	lys	b2
+lytte	lytter	lyttede	har lyttet	havde lyttet	lyt	b1
+lægge (tr.)	lægger	lagde	har lagt	havde lagt	læg	uv
+lære	lærer	lærte	har lært	havde lært	lær	b2
+læse	læser	læste	har læst	havde læst	læs	b2
+løbe	løber	løb	har / er løbet	havde / var løbet	løb	uv
+løfte	løfter	løftede	har løftet	havde løftet	løft	b1
+løse	løser	løste	har løst	havde løst	løs	b2
+låne	låner	lånte	har lånt	havde lånt	lån	b2
+male	maler	malede	har malet	havde malet	mal	b1
+mangle	mangler	manglede	har manglet	havde manglet		b1
+meddele	meddeler	meddelte	har meddelt	havde meddelt	meddel	b2
+medføre	medfører	medførte	har medført	havde medført	medfør	b2
+medvirke	medvirker	medvirkede	har medvirket	havde medvirket	medvirk	b1
+melde	melder	meldte	har meldt	havde meldt	meld	b2
+mene	mener	mente	har ment	havde ment	men	b2
+minde	minder	mindede	har mindet	havde mindet	mind	b1
+miste	mister	mistede	har mistet	havde mistet	mist	b1
+modtage	modtager	modtog	har modtaget	havde modtaget	modtag	uv
+myrde	myrder	myrdede	har myrdet	havde myrdet	myrd	b1
+mærke	mærker	mærkede	har mærket	havde mærket	mærk	b1
+møde	møder	mødte	har mødt	havde mødt	mød	b2
+mødes	mødes	mødtes	har mødtes	havde mødtes		uv
+måle	måler	målte	har målt	havde målt	mål	b2
+måtte	må	måtte	har måttet	havde måttet		uv
+nedlægge	nedlægger	nedlagde	har nedlagt	havde nedlagt	nedlæg	uv
+nedsætte	nedsætter	nedsatte	har nedsat	havde nedsat	nedsæt	uv
+nikke	nikker	nikkede	har nikket	havde nikket	nik	b1
+notere	noterer	noterede	har noteret	havde noteret	noter	b1
+nyde	nyder	nød	har nydt	havde nydt	nyd	uv
+nægte	nægter	nægtede	har nægtet	havde nægtet	nægt	b1
+nærme sig	nærmer sig	nærmede sig	har nærmet sig	havde nærmet sig	nærm dig	b1
+nøjes med	nøjes med	nøjedes med	har nøjedes	havde nøjedes med	nøjes med	uv
+nå	når	nåede	har nået	havde nået	nå	b1
+offentliggøre	offentliggør	offentlig-gjorde	har offentlig-gjort	havde offentlig-gjort	offentlig-gør	uv
+omfatte	omfatter	omfattede	har omfattet	havde omfattet	omfat	b1
+omgive	omgiver	omgav	har omgivet	havde omgivet	omgiv	uv
+opbygge	opbygger	opbyggede	har opbygget	havde opbygget	opbyg	b1
+opdage	opdager	opdagede	har opdaget	havde opdaget	opdag	b1
+operere	opererer	opererede	har opereret	havde opereret	operer	b1
+opfatte	opfatter	opfattede	har opfattet	havde opfattet	opfat	b1
+opfinde	opfinder	opfandt	har opfundet	havde opfundet	opfind	uv
+opfordre	opfordrer	opfordrede	har opfordret	havde opfordret	opfordr	b1
+opfylde	opfylder	opfyldte	har opfyldt	havde opfyldt	opfyld	b2
+opføre	opfører	opførte	har opført	havde opført	opfør	b2
+opgive	opgiver	opgav	har opgivet	havde opgivet	opgiv	uv
+ophæve	ophæver	ophævede	har ophævet	havde ophævet	ophæv	b1
+opleve	oplever	oplevede	har oplevet	havde oplevet	oplev	b1
+oplyse	oplyser	oplyste	har oplyst	havde oplyst	oplys	b2
+opnå	opnår	opnåede	har opnået	havde opnået	opnå	b1
+oprette	opretter	oprettede	har oprettet	havde oprettet	opret	b1
+opstille	opstiller	opstillede	har opstillet	havde opstillet	opstil	b1
+opstå	opstår	opstod	er opstået	var opstået	opstå	uv
+optage	optager	optog	har optaget	havde optaget	optag	uv
+optræde	optræder	optrådte	har optrådt	havde optrådt	optræd	uv
+orientere	orienterer	orienterede	har orienteret	havde orienteret	orienter	b1
+overbevise	overbeviser	overbeviste	har overbevist	havde overbevist	overbevis	b2
+overføre	overfører	overførte	har overført	havde overført	overfør	b2
+overholde	overholder	overholdt	har overholdt	havde overholdt	overhold	uv
+overlade	overlader	overlod	har overladt	havde overladt	overlad	uv
+overleve	overlever	overlevede	har overlevet	havde overlevet	overlev	b1
+overraske	overrasker	overraskede	har overrasket	havde overrasket	overrask	b1
+overtage	overtager	overtog	har overtaget	havde overtaget	overtag	uv
+overveje	overvejer	overvejede	har overvejet	havde overvejet	overvej	b1
+pakke	pakker	pakkede	har pakket	havde pakket	pak	b1
+passe	passer	passede	har passet	havde passet	pas	b1
+pege	peger	pegede	har peget	havde peget	peg	b1
+placere	placerer	placerede	har placeret	havde placeret	placer	b1
+planlægge	planlægger	planlagde	har planlagt	havde planlagt	planlæg	uv
+pleje	plejer	plejede	har plejet	havde plejet	plej	b1
+presse	presser	pressede	har presset	havde presset	pres	b1
+producere	producerer	producerede	har produceret	havde produceret	producer	b1
+præge	præger	prægede	har præget	havde præget	præg	b1
+præsentere	præsenterer	præsenterede	har præsenteret	havde præsenteret	præsenter	b1
+prøve	prøver	prøvede	har prøvet	havde prøvet	prøv	b1
+pudse	pudser	pudsede	har pudset	havde pudset	puds	b1
+påvirke	påvirker	påvirkede	har påvirket	havde påvirket	påvirk	b1
+ramme	rammer	ramte	har ramt	havde ramt	ram	b2
+reagere	reagerer	reagerede	har reageret	havde reageret	reager	b1
+redde	redder	reddede	har reddet	havde reddet	red	b1
+reducere	reducerer	reducerede	har reduceret	havde reduceret	reducer	b1
+registrere	registrerer	registrerede	har registreret	havde registreret	registrer	b1
+regne	regner	regnede	har regnet	havde regnet	regn	b1
+rejse	rejser	rejste	har / er rejst	havde / var rejst	rejs	b2
+rense	renser	rensede	har renset	havde renset	rens	b1
+repræsentere	repræsen-terer	repræsen-terede	har repræsen-teret	havde repræsen-teret	repræsen-ter	b1
+respektere	respekterer	respekterede	har respekteret	havde respekteret	respekter	b1
+rette	retter	rettede	har rettet	havde rettet	ret	b1
+ride	rider	red	har redet	havde redet	rid	uv
+ringe	ringer	ringede	har ringet	havde ringet	ring	b1
+risikere	risikerer	risikerede	har risikeret	havde risikeret	risiker	b1
+rive	river	rev	har revet	havde revet	riv	uv
+rose	roser	roste	har rost	havde rost	ros	b2
+rulle	ruller	rullede	har / er rullet	havde / var rullet	rul	b1
+rumme	rummer	rummede	har rummet	havde rummet	rum	b1
+rydde	rydder	ryddede	har ryddet	havde ryddet	ryd	b1
+ryge	ryger	røg	har røget	havde røget	ryg	uv
+rykke	rykker	rykkede	har rykket	havde rykket	ryk	b1
+ryste	ryster	rystede	har rystet	havde rystet	ryst	b1
+række	rækker	rakte	har rakt	havde rakt	ræk	uv
+røre	rører	rørte	har rørt	havde rørt	rør	b2
+råbe	råber	råbte	har råbt	havde råbt	råb	b2
+råde	råder	rådede	har rådet	havde rådet	råd	b1
+samle	samler	samlede	har samlet	havde samlet	saml	b1
+sammenligne	sammen-ligner	sammen-lignede	har sammen-lignet	havde sammen-lignet	sammen-lign	b1
+satse	satser	satsede	har satset	havde satset	sats	b1
+savne	savner	savnede	har savnet	havde savnet	savn	b1
+se	ser	så	har set	havde set	se	uv
+sejle	sejler	sejlede	har sejlet	havde sejlet	sejl	b1
+sende	sender	sendte	har sendt	havde sendt	send	b2
+servere	serverer	serverede	har serveret	havde serveret	server	b1
+ses	ses	sås	har sets	havde sets		uv
+sidde	sidder	sad	har siddet	havde siddet	sid	uv
+sige	siger	sagde	har sagt	havde sagt	sig	uv
+sikre	sikrer	sikrede	har sikret	havde sikret	sikr	b1
+skabe	skaber	skabte	har skabt	havde skabt	skab	b2
+skade	skader	skadede	har skadet	havde skadet	skad	b1
+skaffe	skaffer	skaffede	har skaffet	havde skaffet	skaf	b1
+ske	sker	skete	er sket	var sket	ske	b2
+skifte	skifter	skiftede	har skiftet	havde skiftet	skift	b1
+skinne	skinner	skinnede	har skinnet	havde skinnet	skin	b1
+skjule	skjuler	skjulte	har skjult	havde skjult	skjul	b2
+skrige	skriger	skreg	har skreget	havde skreget	skrig	uv
+skrive	skriver	skrev	har skrevet	havde skrevet	skriv	uv
+skræmme	skræmmer	skræmte	har skræmt	havde skræmt	skræm	b2
+skubbe	skubber	skubbede	har skubbet	havde skubbet	skub	b1
+skuffe	skuffer	skuffede	har skuffet	havde skuffet	skuf	b1
+skulle	skal	skulle	har skullet	havde skullet		uv
+skyde	skyder	skød	har skudt	havde skudt	skyd	uv
+skyldes	skyldes	skyldtes	har skyldtes	havde skyldtes		uv
+skære	skærer	skar	har skåret	havde skåret	skær	uv
+slippe	slipper	slap	har / ersluppet	havde / var sluppet	slip	uv
+slukke	slukker	slukkede	er slukket	var slukket	sluk	b1
+slutte	slutter	sluttede	er sluttet	var sluttet	slut	b1
+slå	slår	slog	har slået	havde slået	slå	uv
+slås	slås	sloges	har sloges	havde sloges	slås	uv
+smage	smager	smagte	har smagt	havde smagt	smag	b2
+smide	smider	smed	har smidt	havde smidt	smid	b2
+smile	smiler	smilede	har smilet	havde smilet	smil	b1
+smitte	smitter	smittede	har smittet	havde smittet	smit	b1
+snakke	snakker	snakkede	har snakket	havde snakket	snak	b1
+sove	sover	sov	har sovet	havde sovet	sov	uv
+spare	sparer	sparede	har sparet	havde sparet	spar	b1
+spille	spiller	spillede	har spillet	havde spillet	spil	b1
+spise	spiser	spiste	har spist	havde spist	spis	b2
+sprede	spreder	spredte	har spredt	havde spredt	spred	b2
+springe	springer	sprang	har / er sprunget	havde / var sprunget	spring	uv
+spørge	spørger	spurgte	har spurgt	havde spurgt	spørg	uv
+stamme	stammer	stammede	har stammet	havde stammet	stam	b1
+standse	standser	standsede	har / er standset	havde / var standset	stands	b1
+starte	starter	startede	har / er startet	havde / var startet	start	b1
+stemme	stemmer	stemte	har stemt	havde stemt	stem	b2
+stege	steger	stegte	har stegt	havde stegt	steg	uv
+stige	stiger	steg	er steget	var steget	stig	uv
+stikke	stikker	stak	har stukket	havde stukket	stik	uv
+stikke af	stikker af	stak af	er stukket af	var stukket af	stik af	uv
+stille	stiller	stillede	har stillet	havde stillet	stil	b1
+stjæle	stjæler	stjal	har stjålet	havde stjålet	stjæl	uv
+stole på	stoler på	stolede på	har stolet på	havde stolet på	stol på	b1
+stoppe	stopper	stoppede	har / er stoppet	havde / var stoppet	stop	b1
+straffe	straffer	straffede	har straffet	havde straffet	straf	b1
+stramme	strammer	strammede	har strammet	havde strammet	stram	b1
+strække	strækker	strakte	har strakt	havde strakt	stræk	uv
+studere	studerer	studerede	har studeret	havde studeret	studer	b1
+styre	styrer	styrede	har styret	havde styret	styr	b1
+styrke	styrker	styrkede	har styrket	havde styrket	styrk	b1
+støde	støder	stødte	har stødt	havde stødt	stød	b2
+støde på	støder på	stødte på	er stødt på	var stødt på	stød på	b2
+støtte	støtter	støttede	har støttet	havde støttet	støt	b1
+stå	står	stod	har stået	havde stået	stå	uv
+stå op	står op	stod op	er stået op	var stået op	stå op	uv
+svare	svarer	svarede	har svaret	havde svaret	svar	b1
+svigte	svigter	svigtede	har sviget	havde svigtet	svigt	b1
+svinge	svinger	svingede	har svinget	havde svinget	sving	b1
+sy	syr	syede	har syet	havde syet	sy	b1
+synes	synes	syntes	har syntes	havde syntes	synes	uv
+synge	synger	sang	har sunget	havde sunget	syng	uv
+synke	synker	sank	er sunket	var sunket	synk	uv
+sælge	sælger	solgte	har solgt	havde solgt	sælg	uv
+sænke	sænker	sænkede	har sænket	havde sænket	sænk	b1
+sætte	sætter	satte	har sat	havde sat	sæt	uv
+søge	søger	søgte	har søgt	havde søgt	søg	b2
+sørge for	sørger for	sørgede for	har sørget for	havde sørget for	sørg for	b1
+tabe	taber	tabte	har tabt	havde tabt	tab	b2
+tage	tager	tog	har taget	havde taget	tag	uv
+tage hjem	tager hjem	tog hjem	er taget hjem	var taget hjem	tag hjem	uv
+takke	takker	takkede	har takket	havde takket	tak	b1
+tale	taler	talte	har talt	havde talt	tal	b2
+tegne	tegner	tegnede	har tegnet	havde tegnet	tegn	b1
+tilbringe	tilbringer	tilbragte	har tilbragt	havde tilbragt	tilbring	uv
+tilbyde	tilbyder	tilbød	har tilbudt	havde tilbudt	tilbyd	uv
+tilføje	tilføjer	tilføjede	har tilføjet	havde tilføjet	tilføj	b1
+tilhøre	tilhører	tilhørte	har tilhørt	havde tilhørt		b2
+tillade	tillader	tillod	har tilladt	havde tilladt	tillad	uv
+tjene	tjener	tjente	har tjent	havde tjent	tjen	b2
+tro	tror	troede	har troet	havde troet	tro	b1
+true	truer	truede	har truet	havde truet	tru	b1
+trykke	trykker	trykkede	har trykket	havde trykket	tryk	b1
+træde	træder	trådte	har trådt	havde trådt	træd	uv
+træffe	træffer	traf	har truffet	havde truffet	træf	uv
+trække	trækker	trak	har trukket	havde trukket	træk	uv
+trænge	trænger	trængte	har trængt	havde trængt	træng	b2
+trænge ind	trænger ind	trængte ind	er trængt ind	var trængt ind	træng ind	b2
+turde	tør	turde	har turdet	havde turdet		uv
+tvinge	tvinger	tvang	har tvunget	havde tvunget	tving	uv
+tyde	tyder	tydede	har tydet	havde tydet	tyd	b1
+tælle	tæller	talte	har talt	havde talt	tæl	uv
+tænde	tænder	tændte	har tændt	havde tændt	tænd	b2
+tænke	tænker	tænkte	har tænkt	havde tænkt	tænk	b2
+tømme	tømmer	tømte	har tømt	havde tømt	tøm	b2
+tørre	tørrer	tørrede	har tørret	havde tørret	tør	b1
+tåle	tåler	tålte	har tålt	havde tålt	tål	b2
+udarbejde	udarbejder	udarbejdede	har udarbejdet	havde udarbejdet	udarbejd	b1
+udbrede	udbreder	udbredte	har udbredt	havde udbredt	udbred	b2
+uddanne	uddanner	uddannede	har uddannet	havde uddannet	uddan	b1
+udelukke	udelukker	udelukkede	har udelukket	havde udelukket	udeluk	b1
+udføre	udfører	udførte	har udført	havde udført	udfør	uv
+udgive	udgiver	udgav	har udgivet	havde udgivet	udgiv	uv
+udgøre	udgør	udgjorde	har udgjort	havde udgjort	udgør	uv
+udkomme	udkommer	udkom	er udkommet	var udkommet		uv
+udlevere	udleverer	udleverede	har udleveret	havde udleveret	udlever	b1
+udløse	udløser	udløste	har udløst	havde udløst	udløs	b2
+udnytte	udnytter	udnyttede	har udnyttet	havde udnyttet	udnyt	b1
+udstyre	udstyrer	udstyrede	har udstyret	havde udstyret	udstyr	b1
+udsætte	udsætter	udsatte	har udsat	havde udsat	udsæt	uv
+udtale	udtaler	udtalte	har udtalt	havde udtalt	udtal	b2
+udtrykke	udtrykker	udtrykte	har udtrykt	havde udtrykt	udtryk	b2
+udvide	udvider	uvidede	har udvidet	havde udvidet	udvid	b1
+udvikle	udvikler	udviklede	har udviklet	havde udviklet	udvikl	b1
+underholde	underholder	underholdt	har underholdt	havde underholdt	underhold	uv
+understrege	under-streger	under-stregede	har under-streget	havde under-streget	under-streg	b1
+undersøge	undersøger	undersøgte	har undersøgt	havde undersøgt	undersøg	b2
+undgå	undgår	undgik	har undgået	havde undgået	undgå	b2
+undre sig	undrer sig	undrede sig	har undret sig	havde undret sig	undr dig	b1
+vaccinere	vaccinerer	vaccinerede	har vaccineret	havde vaccineret	vacciner	b1
+vare	varer	varede	har varet	havde varet	var	b1
+variere	varierer	varierede	har varieret	havde varieret	varier	b1
+vaske	vasker	vaskede	har vasket	havde vasket	vask	b1
+vedtage	vedtager	vedtog	har vedtaget	havde vedtaget	vedtag	uv
+veje	vejer	vejede	har vejet	havde vejet	vej	b1
+vende	vender	vendte	har vendt	havde vendt	vend	b2
+vente	venter	ventede	har ventet	havde ventet	vent	b1
+vide	ved	vidste	har vidst	havde vidst	vid	uv
+ville	vil	ville	har villet	havde villet	vil	uv
+vinde	vinder	vandt	har vundet	havde vundet	vind	uv
+virke	virker	virkede	har virket	havde virket	virk	b1
+vise	viser	viste	har vist	havde vist	vis	b2
+vokse	vokser	voksede	er vokset	var vokset	voks	b1
+vurdere	vurderer	vurderede	har vurderet	havde vurderet	vurder	b1
+vække	vækker	vækkede	har vækket	havde vækket	væk	b1
+vælge	vælger	valgte	har valgt	havde valgt	vælg	uv
+vælte	vælter	væltede	har væltet	havde væltet	vælt	b1
+være	er	var	har været	havde været	vær	uv
+vågne	vågner	vågnede	er vågnet	var vågnet	vågn	b1
+yde	yder	ydede	har ydet	havde ydet	yd	b1
+ændre	ændrer	ændrede	har ændret	havde ændret	ændr	b1
+ødelægge	ødelægger	ødelagde	har ødelagt	havde ødelagt	ødelæg	uv
+øge	øger	øgede	har øget	havde øget	øg	b1
+ønske	ønsker	ønskede	har ønsket	havde ønsket	ønsk	b1
+åbne	åbner	åbnede	har åbnet	havde åbnet	åbn	b1
