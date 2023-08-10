@@ -34,7 +34,7 @@ function validate_sentence($sentence) {
         'messages' => [
             [
                 'role' => 'system',
-                'content' => 'You are Danish language teacher. Find grammatical errors in this sentence. Be accurate. Explain. Format as list.',
+                'content' => 'Check Danish grammar of this sentence. Accept absurdity. Reply only with the corrected sentence.',
             ],
             [
                 'role' => 'user',
