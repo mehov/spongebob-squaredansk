@@ -11,39 +11,7 @@ $spongebob_situations = file('spongebob_situations.txt', FILE_IGNORE_NEW_LINES);
 // Fetch random Danish verb, conjunction, and Spongebob situation
 $random_verb = explode("\t", $danish_verbs[array_rand($danish_verbs)]);
 $random_conjunction = explode("\t", $danish_conjunctions[array_rand($danish_conjunctions)]);
-$random_situation = get_spongebob_situation($spongebob_situations);
-
-function get_spongebob_situation($backup_list) {
-    // Fetch random situation from OpenAI API
-    $ch = curl_init();
-    curl_setopt($ch, CURLOPT_URL, OPENAI_API_ENDPOINT);
-    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-    curl_setopt($ch, CURLOPT_POST, 1);
-    curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode([
-        'model' => getenv('OPENAI_CHATGPT_MODEL'),
-        'messages' => [
-            [
-                'role' => 'user',
-                'content' => 'Simple situation from Spongebob in one sentence:',
-            ],
-        ],
-        'max_tokens' => 50,
-    ]));
-    curl_setopt($ch, CURLOPT_HTTPHEADER, [
-        'Content-Type: application/json',
-        'Authorization: Bearer ' . OPENAI_API_KEY
-    ]);
-
-    $response = curl_exec($ch);
-    if (!$response || curl_getinfo($ch, CURLINFO_HTTP_CODE) !== 200) {
-        echo '<pre>';var_dump($response);echo '</pre>';
-        // Use the backup list if API fails
-        return $backup_list[array_rand($backup_list)];
-    }
-
-    $data = json_decode($response, true);
-    return $data['choices'][0]['message']['content'] ?? $backup_list[array_rand($backup_list)];
-}
+$random_situation = $spongebob_situations[array_rand($spongebob_situations)];
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $sentence = $_POST['sentence'];
