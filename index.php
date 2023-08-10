@@ -75,18 +75,31 @@ function validate_sentence($sentence) {
         <textarea name="sentence" id="sentence" cols="50" rows="5"></textarea><br><br>
         <input type="submit" value="Validate">
     </form>
+    <table>
     <?php if (isset($sentence)): ?>
-        <p>You entered: <b><?php echo $sentence; ?></b></p>
+        <tr>
+            <th>You entered:</th>
+            <td><pre><?php echo $sentence; ?></pre></td>
+        </tr>
     <?php endif; ?>
     <?php if (isset($message)): ?>
-        <p>ChatGPT says:</p>
-        <pre><?php echo $message; ?></pre>
-        <p>(If in doubt, consult your teacher.)</p>
+        <tr>
+            <th>ChatGPT says:</th>
+            <td><pre><?php echo $message; ?></pre></td>
+        </tr>
+        <tr>
+            <th></th>
+            <td><small>(If in doubt, consult your teacher.)</small></td>
+        </tr>
     <?php endif; ?>
+    </table>
     <style type="text/css">
         abbr {
             cursor: help;
             font-weight: bold;
+        }
+        table {
+            text-align: left;
         }
         pre {
             white-space: pre-wrap;       /* Since CSS 2.1 */
