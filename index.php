@@ -22,6 +22,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $sentence = $_POST['sentence'];
     // Validate sentence grammar using OpenAI API
     $message = validate_sentence($sentence);
+    $message = trim($message, '"');
+    $message = trim($message, "'");
 }
 
 function validate_sentence($sentence) {
